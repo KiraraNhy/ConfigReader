@@ -1,5 +1,5 @@
 # ConfigReader
-Unity配置表读取类，配置表格式使用excel编写到处txt格式
+Unity配置表读取类，配置表格式使用excel编写导出txt格式
 
 代码并不成熟，还望见谅
 
