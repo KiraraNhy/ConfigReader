@@ -84,7 +84,7 @@ public class ConfigReader
     /// 反射对配置表Model内的对象自动赋值
     /// 要求：
     /// 1.配置表名字必须为***Config
-    /// 2.Model类名必须为***Model
+    /// 2.Model类名必须为***Config
     /// 3.Model类中变量名必须与Config中相同
     /// 5.配置表必须有id
     /// </summary>
