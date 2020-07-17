@@ -1,0 +1,9 @@
+int	string	int[,]	string	enum	double[]
+id	名字	品质	图标	类型	浮点数组
+id	name	quality	icon	cardType	test
+1001	舰船1	1+11|2+22	a	Tank	0.1+1.1
+1002	舰船2	2+22|2+22	b	DPS	0.2+2.2
+1003	舰船3	3+33|2+22	c	Assist	0.3+3.3
+1004	舰船4	4+44|2+22	d	None	0.4+4.4
+1005	舰船5	5+55|2+22	e	DPS	0.5+5.5
+1006	舰船6	6+66|2+22	f	Tank	0.6+6.6
